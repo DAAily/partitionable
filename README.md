@@ -58,7 +58,7 @@ cd ../..
 Then you can run the tests with:
 
 ```bash
-bin/test
+rake test test
 ```
 
 ## Contributing
